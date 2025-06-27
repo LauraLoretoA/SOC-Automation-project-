@@ -1,0 +1,4 @@
+timestamp,incident_name,criticality,confidence
+2025-06-27T18:12:44.826899z,** Suspicious Outbound DNS Query from Internal Host,Unknown,Unknown
+2025-06-27T18:32:46.669263z,** Suspicious DNS Query from Internal Host,Unknown,Unknown
+2025-06-27T18:41:22.821741z,** Suspicious DNS Query from Internal Network,Unknown,Unknown
