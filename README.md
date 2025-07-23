@@ -1,4 +1,4 @@
-This project parses .pcap network trafiic data and uses google Gemini AI to classify incidents and analyse them, log all findings and simulates Jira ticket creation for alerts
+This project parses .pcap network traffic data and uses google Gemini AI to classify incidents and analyse them, log all findings and simulates Jira ticket creation for alerts
 
 FEATURES 
 - Parses packet data from .pcap files 
